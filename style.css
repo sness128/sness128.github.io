@@ -1,0 +1,73 @@
+body {
+    /*background: radial-gradient(ellipse, #04021b 1%, #050505 90%, #04021b);*/
+   background-color: #000000;
+   color: limegreen;
+   font-family: 'Andale Mono', monospace;
+   height: 100%;
+   display: block;
+   margin: 8px;
+   
+}
+p {
+    color: limegreen;
+}
+div {
+    display: block;
+}
+.main {
+    margin: 32px;
+    width: 756px;
+    font-size: 16px;
+    line-height: 24px;
+    margin: auto;
+}
+td {
+    border: 2px solid #0060df;
+    padding: 10px;
+    text-align: justify;
+    display: table-cell;
+    vertical-align: inherit;
+}
+.logo {
+    text-align:center;
+    color: limegreen;
+    opacity: 0.9;
+}
+.sublogo {
+    text-align:center;
+    color: #0060df
+}
+.header {
+    
+    background-color:#0060df;
+    padding: 3px 2px 3px 8px;
+    color: #000000;
+    position: relative;
+    width: 750px;
+    text-align: left;
+    z-index: 2;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border: 3px solid #0060df;
+    
+}
+
+.imagebut {
+    border: 1px solid transparent;
+    filter: brightness(80%) grayscale(100%) saturate(200%) contrast(2.0);
+    -webkit-filter: brightness(80%) grayscale(100%) saturate(200%) contrast(2.0);
+    transition: 0.3s;
+    -webkit-transition: 0.3s
+}
+.imagebut:hover{
+    border: 1px solid transparent;
+    filter: brightness(100%) grayscale(0%) saturate(100%) contrast(1);
+    -webkit-filter: brightness(100%) grayscale(0%) saturate(100%) contrast(1);
+    transition: 0.3s;
+    -webkit-transition: 0.3s
+}
