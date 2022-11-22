@@ -52,7 +52,6 @@ table {
     border-collapse: separate;
     box-sizing: border-box;
     text-indent: initial;
-    
     border-spacing: 3px;
     border: 3px solid #0060df;
     
@@ -71,4 +70,27 @@ table {
     -webkit-filter: brightness(100%) grayscale(0%) saturate(100%) contrast(1);
     transition: 0.3s;
     -webkit-transition: 0.3s
+}
+
+.topnav {
+    background-color: #000000ce;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: rgba(0, 119, 216, 0.61);
+    color: black;
+}
+.topnav a.active {
+    background-color: #0060df;
+    color:white;
 }
