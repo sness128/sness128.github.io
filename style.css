@@ -71,7 +71,22 @@ table {
     transition: 0.3s;
     -webkit-transition: 0.3s
 }
-
+.moviebut {
+    height: 341px;
+    width: 237px;
+    border: 1px solid transparent;
+    filter: brightness(80%) grayscale(100%) saturate(300%) contrast(2.0);
+    -webkit-filter: brightness(80%) grayscale(100%) saturate(300%) contrast(2.0);
+    transition: 0.3s;
+    -webkit-transition: 0.3s
+}
+.moviebut:hover{
+    border: 1px solid transparent;
+    filter: brightness(100%) grayscale(0%) saturate(100%) contrast(1);
+    -webkit-filter: brightness(100%) grayscale(0%) saturate(100%) contrast(1);
+    transition: 0.3s;
+    -webkit-transition: 0.3s
+}
 .topnav {
     background-color: #000000ce;
     overflow: hidden;
@@ -93,4 +108,10 @@ table {
 .topnav a.active {
     background-color: #0060df;
     color:white;
+}
+.movie {
+    text-align: center;
+}
+.movietable b {
+    color: #9100d4;
 }
