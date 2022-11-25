@@ -58,6 +58,8 @@ table {
 }
 
 .imagebut {
+    width: 347px;
+    height: 260px;
     border: 1px solid transparent;
     filter: brightness(80%) grayscale(100%) saturate(300%) contrast(2.0) blur(15px);
     -webkit-filter: brightness(80%) grayscale(100%) saturate(300%) contrast(2.0) blur(15px);
