@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":".","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Fem","characterIndex":0,"characterName":"Fem","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Fem","traits":[],"initialLevel":5,"maxLevel":99,"name":"Girl","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"boy","characterIndex":0,"characterName":"boy","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"boy","traits":[],"initialLevel":5,"maxLevel":99,"name":"Not Girl","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"SwordKeeper","characterIndex":0,"characterName":"SwordKeeper","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SwordKeeper","traits":[],"initialLevel":45,"maxLevel":99,"name":"Sword Keeper","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"SMSTEVE","characterIndex":0,"characterName":"SMSteve","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SMSteve","traits":[],"initialLevel":45,"maxLevel":99,"name":"SexMaster Steve","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Reptile","characterIndex":0,"characterName":"Reptile","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Reptile","traits":[],"initialLevel":99,"maxLevel":99,"name":"Secret Character","nickname":"","note":"","profile":""}
+]
