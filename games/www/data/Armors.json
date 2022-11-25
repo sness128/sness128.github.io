@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Shield","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Hat","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Cloth","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":1,"description":"+10% Chance to evade attacks.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.1}],"iconIndex":140,"name":"Quick Boots","note":"","params":[0,0,0,5,0,5,0,0],"price":0},
+{"id":6,"atypeId":5,"description":"Decreases damage from Wind skills by 33%","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":7,"value":0.67}],"iconIndex":128,"name":"Wind-Resistant Shield","note":"","params":[0,0,0,20,0,20,0,0],"price":0},
+{"id":7,"atypeId":1,"description":"Resists Dark and Light attacks.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":8,"value":0.75},{"code":11,"dataId":9,"value":0.75}],"iconIndex":137,"name":"Order-Resistant Armor","note":"","params":[0,0,0,30,0,30,0,0],"price":0},
+{"id":8,"atypeId":1,"description":"Greatly increases evasion rate.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0.33},{"code":54,"dataId":3,"value":1}],"iconIndex":131,"name":"Assassin's Hood","note":"","params":[0,0,0,5,0,5,0,0],"price":0},
+{"id":9,"atypeId":2,"description":"Increases Max HP by 300.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Health Boost Ring","note":"","params":[300,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":2,"description":"Increases Max MP by 75.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Mana Boost Ring","note":"","params":[300,75,0,0,0,0,0,0],"price":0},
+{"id":11,"atypeId":5,"description":"Cuts max HP by 25% in exchange for greater defense and attack power.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":0,"value":0.75}],"iconIndex":128,"name":"Shield of Exchange","note":"","params":[0,0,15,50,0,50,0,0],"price":0},
+{"id":12,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

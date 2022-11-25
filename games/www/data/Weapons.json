@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":0,"description":"25% Chance to poison opponents. Increases hit rate.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":5},{"code":32,"dataId":4,"value":0.25}],"iconIndex":96,"name":"Poison-Tipped Dagger","note":"","params":[0,0,30,0,3,0,0,0],"price":0,"wtypeId":1},
+{"id":6,"animationId":8,"description":"Does fire damage.","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":120,"name":"Demon Sword","note":"","params":[0,0,50,0,5,0,0,0],"price":0,"wtypeId":2},
+{"id":7,"animationId":0,"description":"A sword that protects its wielder.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Guarding Sword","note":"","params":[0,0,30,30,3,30,0,0],"price":0,"wtypeId":2},
+{"id":8,"animationId":0,"description":"Blinds opponents.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":32,"dataId":5,"value":1}],"iconIndex":120,"name":"Blinding Blade","note":"","params":[0,0,35,5,0,5,0,0],"price":0,"wtypeId":2},
+{"id":9,"animationId":0,"description":"You probably shouldn't have this.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":11,"dataId":1,"value":10}],"iconIndex":97,"name":"Excalibur","note":"","params":[500,500,500,500,500,500,500,500],"price":0,"wtypeId":2},
+{"id":10,"animationId":28,"description":"Chance to poison and enrage opponents.","etypeId":1,"traits":[{"code":31,"dataId":9,"value":0},{"code":22,"dataId":0,"value":0},{"code":13,"dataId":4,"value":0.5},{"code":13,"dataId":7,"value":0.5}],"iconIndex":97,"name":"Night's Edge","note":"","params":[0,0,40,0,10,0,0,0],"price":0,"wtypeId":2},
+{"id":11,"animationId":31,"description":"A sword once belonging to an ancient demonic entity","etypeId":1,"traits":[{"code":31,"dataId":10,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":120,"name":"Sword of Satan","note":"","params":[100,100,100,100,100,100,100,100],"price":0,"wtypeId":2}
+]
